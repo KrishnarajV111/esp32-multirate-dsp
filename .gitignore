@@ -67,3 +67,11 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+# Arduino / ESP32 Specific
+*.elf
+*.hex
+*.bin
+
+# MATLAB Specific
+*.mat
+*.asv
