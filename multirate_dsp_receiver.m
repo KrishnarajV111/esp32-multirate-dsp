@@ -18,7 +18,7 @@
 %    [0xAA] [0x55] [Lo Byte] [Hi Byte]   — 4 bytes per sample
 %    int16 little-endian, range: −2048 to +2047
 %
-%  Author : AI-Generated (Antigravity)
+%  Author : KRISHNA RAJ V
 %  Date   : 2026-08-13
 % =========================================================================
 
