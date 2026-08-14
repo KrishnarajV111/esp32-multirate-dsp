@@ -36,7 +36,7 @@
  *    - ESP32 Arduino Core v3.x (timerBegin(frequency))
  *    Auto-detected at compile time via ESP_ARDUINO_VERSION macros.
  *
- *  Author : AI-Generated (Antigravity)
+ *  Author : KRISHNA RAJ
  *  Date   : 2026-08-13
  * ============================================================================
  */
